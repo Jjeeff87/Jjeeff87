@@ -30,6 +30,6 @@
 
  Email: j.ferson@icloud.com
 
- LinkedIn: linkedin.com/in/jeferson-schneider
+ LinkedIn: linkedin.com/in/jeferson-schneider-60a612bb
 
  Open to freelance and contract QA / test automation work.
