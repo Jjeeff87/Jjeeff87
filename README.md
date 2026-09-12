@@ -26,8 +26,11 @@ Open to remote QA roles, freelance work, or contract test automation.
 
 #### A few projects I'm proud of
 
+🆕 **Latest:** [jcars](https://github.com/Jjeeff87/jcars), a full fleet management app I built from scratch, see below.
+
 | Project | What it is |
 |---|---|
+| 🚗 [jcars](https://github.com/Jjeeff87/jcars) | My most recent project: a fleet management app (Python, Streamlit, SQLite) for a car rental company, with an interactive dashboard (Plotly charts), CSV/Excel exports, and 74 automated tests covering CRUD, business rules, security and concurrency |
 | 💇 [j8-app](https://github.com/Jjeeff87/j8-app) | A working prototype I built end to end: a Node.js hair/beauty diagnostic app with accounts, a booking flow, and its own 44-test Selenium/Pytest suite (login flows, cart persistence, real concurrency/race-condition tests) running in CI |
 | 🛍️ [shein-web-test-aut](https://github.com/Jjeeff87/shein-web-test-aut) | Selenium/Pytest suite for the product search flow on shein.com/pt, Page Object Model, CI via GitHub Actions |
 | 🛒 [continente-web-test-aut](https://github.com/Jjeeff87/continente-web-test-aut) | Selenium/Pytest suite for the product search flow on continente.pt, Page Object Model, CI via GitHub Actions |
