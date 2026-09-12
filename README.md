@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi, I'm Jeferson 👋
+### Olá, eu sou o Jeferson 👋
 
-**QA Engineer in training, focused on Python test automation (Selenium, Pytest, API testing)**
+**Tecnologia, Qualidade & IA | Automação de Testes e Engenharia de IA em formação**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -13,40 +13,42 @@
 
 </div>
 
-I'm finishing a Quality Assurance program at TripleTen. Before that, I spent 17+ years leading teams and running retail operations, which turned out to be surprisingly good training for QA: you learn to notice the detail that everyone else skips past, and to not let things go out the door half-checked. I'm now applying that to software: writing automated Selenium/Pytest suites, testing APIs, and doing structured manual test design (equivalence partitioning, boundary value analysis, bug reports that actually help a developer fix the thing).
+Concluí um programa de Garantia de Qualidade na TripleTen, e atualmente estudo Engenharia de IA na Tokio School, um curso que vai além de IA e cobre uma base mais ampla de engenharia de software. Antes disso, passei mais de 17 anos liderando equipes e gerenciando operações de varejo, o que acabou sendo um treinamento surpreendentemente bom para QA: você aprende a perceber os detalhes que todos os outros ignoram, e a não deixar nada sair pela porta sem uma verificação completa.
 
-Open to remote QA roles, freelance work, or contract test automation.
+Apliquei isso a software escrevendo suítes de testes automatizados com Selenium/Pytest, testando APIs e criando projetos de testes manuais estruturados (particionamento de equivalência, análise de valores limite, relatórios de bugs que realmente ajudam um desenvolvedor a corrigir o problema). Agora estou expandindo essa base para o lado de Engenharia de IA.
 
-#### What I do
+Aberto a vagas remotas em Engenharia de IA, QA, automação de testes, freelance ou projetos que envolvam IA aplicada.
 
-- Automated test suites with Selenium WebDriver and Pytest, built around the Page Object Model
-- API test automation with Python and Requests
-- Manual and exploratory testing: test case design, boundary value analysis, and bug reports people can act on
-- Wiring test suites up to CI with GitHub Actions, so they run on every push instead of "whenever I remember"
+#### O que eu faço
 
-#### A few projects I'm proud of
+- Suítes de testes automatizados com Selenium WebDriver e Pytest, usando o padrão Page Object Model
+- Automação de testes de API com Python e Requests
+- Testes manuais e exploratórios: desenho de casos de teste, análise de valor limite e relatórios de bug que as pessoas conseguem usar de verdade
+- Integração de suítes de teste com CI via GitHub Actions, rodando a cada push, em vez de "sempre que eu lembrar"
 
-🆕 **Latest:** [jcars](https://github.com/Jjeeff87/jcars), a full fleet management app I built from scratch, see below.
+#### Alguns projetos dos quais eu me orgulho
 
-| Project | What it is |
+🆕 **Mais recente:** [jcars](https://github.com/Jjeeff87/jcars), uma aplicação de gestão de frota que construí do zero, veja abaixo.
+
+| Projeto | O que é |
 |---|---|
-| 🚗 [jcars](https://github.com/Jjeeff87/jcars) | My most recent project: a fleet management app (Python, Streamlit, SQLite) for a car rental company, with an interactive dashboard (Plotly charts), CSV/Excel exports, and 74 automated tests covering CRUD, business rules, security and concurrency |
-| 💇 [j8-app](https://github.com/Jjeeff87/j8-app) | A working prototype I built end to end: a Node.js hair/beauty diagnostic app with accounts, a booking flow, and its own 44-test Selenium/Pytest suite (login flows, cart persistence, real concurrency/race-condition tests) running in CI |
-| 🛍️ [shein-web-test-aut](https://github.com/Jjeeff87/shein-web-test-aut) | Selenium/Pytest suite for the product search flow on shein.com/pt, Page Object Model, CI via GitHub Actions |
-| 🛒 [continente-web-test-aut](https://github.com/Jjeeff87/continente-web-test-aut) | Selenium/Pytest suite for the product search flow on continente.pt, Page Object Model, CI via GitHub Actions |
-| 🛋️ [IKEA-WEB_TEST_AUT](https://github.com/Jjeeff87/IKEA-WEB_TEST_AUT) | Selenium/Pytest suite for the product search flow on ikea.pt, Page Object Model |
-| 🛵 [Trotiurban](https://github.com/Jjeeff87/Trotiurban) | API test automation (Python, Pytest, Requests) for a courier service: creation, validation, and Jira-style bug tracking |
-| 📋 [qa-test-case-design-tripleten](https://github.com/Jjeeff87/qa-test-case-design-tripleten) | Manual test case design work from TripleTen Sprint 9: equivalence partitioning and boundary value analysis |
+| 🚗 [jcars](https://github.com/Jjeeff87/jcars) | Meu projeto mais recente: uma aplicação de gestão de frota (Python, Streamlit, SQLite) para uma locadora de veículos, com painel interativo (gráficos Plotly), exportação para CSV/Excel e 74 testes automatizados cobrindo CRUD, regras de negócio, segurança e concorrência |
+| 💇 [j8-app](https://github.com/Jjeeff87/j8-app) | Um protótipo funcional que construí do início ao fim: uma aplicação de diagnóstico capilar e de beleza em Node.js, com contas de usuário, fluxo de agendamento e sua própria suíte de 44 testes Selenium/Pytest (fluxos de login, persistência de carrinho, testes reais de concorrência), rodando em CI |
+| 🛍️ [shein-web-test-aut](https://github.com/Jjeeff87/shein-web-test-aut) | Suíte Selenium/Pytest para o fluxo de busca de produtos no shein.com/pt, Page Object Model, CI via GitHub Actions |
+| 🛒 [continente-web-test-aut](https://github.com/Jjeeff87/continente-web-test-aut) | Suíte Selenium/Pytest para o fluxo de busca de produtos no continente.pt, Page Object Model, CI via GitHub Actions |
+| 🛋️ [IKEA-WEB_TEST_AUT](https://github.com/Jjeeff87/IKEA-WEB_TEST_AUT) | Suíte Selenium/Pytest para o fluxo de busca de produtos no ikea.pt, Page Object Model |
+| 🛵 [Trotiurban](https://github.com/Jjeeff87/Trotiurban) | Automação de testes de API (Python, Pytest, Requests) para um serviço de courier: criação, validação e rastreio de bugs no estilo Jira |
+| 📋 [qa-test-case-design-tripleten](https://github.com/Jjeeff87/qa-test-case-design-tripleten) | Trabalho de desenho de casos de teste manual do Sprint 9 da TripleTen: particionamento de equivalência e análise de valor limite |
 
-#### Currently learning
+#### Estudando atualmente
 
-AI Engineering at Tokio School (2026), plus working toward the PCAP certification, IBM's AI/ML/Deep Learning badges, and Scrum/Agile fundamentals.
+Engenharia de IA na Tokio School (2026), curso com uma base ampla que vai além de IA. Também trabalhando rumo à certificação PCAP, aos badges de IA/ML/Deep Learning da IBM, e aos fundamentos de Scrum/Ágil.
 
-#### A bit of background
+#### Um pouco de background
 
-17+ years leading teams and retail operations before moving into tech. That gave me a habit of ownership and structure that carries straight over into QA work, testing isn't just "does it run," it's making sure nothing gets missed.
+Mais de 17 anos liderando equipes e operações de varejo antes de migrar para tecnologia. Isso me deu um hábito de responsabilidade e estrutura que carrego direto para o trabalho em QA e IA: teste não é só "será que funciona", é garantir que nada passe despercebido.
 
-#### Get in touch
+#### Contato
 
 📧 j.ferson@icloud.com
 🔗 [linkedin.com/in/jeferson-schneider-60a612bb](https://www.linkedin.com/in/jeferson-schneider-60a612bb/)
